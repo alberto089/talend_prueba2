@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_rVvSsBd1EeqbvK0QsNo1Eg" label="Git_pruebas_talend" description="" language="java" technicalLabel="GIT_PRUEBAS_TALEND" local="true" author="_rVvSsRd1EeqbvK0QsNo1Eg" productVersion="Talend Cloud Big Data-7.2.1.20190909_1200_patch" itemsRelationVersion="1.3">
+    <migrationTask xmi:id="_rf4GIBd1EeqbvK0QsNo1Eg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_rVvSsRd1EeqbvK0QsNo1Eg" login="alberto.vadillo.munoz@devoteam.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>
